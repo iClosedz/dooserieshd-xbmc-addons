@@ -13,7 +13,7 @@
 `ทางผู้จัดทำไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol`
 
 # ดาวน์โหลด #
-[ดาวน์โหลด DooseriesHD-Addon](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
+- [ดาวน์โหลด DooseriesHD-Addon](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
 
 # วิธีติดตั้ง #
 1. ดาวน์โหลดไฟล์ .zip มาก่อน
@@ -28,4 +28,4 @@
 	 - initial release
 
 ### Contributors ###
-iClosedz (https://fb.com/iClosedz)
+iClosedz [fb.com/iClosedz](https://fb.com/iClosedz)
