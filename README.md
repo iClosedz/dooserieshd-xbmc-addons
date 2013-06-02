@@ -3,23 +3,21 @@
 ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 ผู้จัดทำจะพยายามอัพเดทเรื่อยๆ โดยจะพยายามเพิ่มให้ครบทุกประเทศ 
 
-- อเมริกา
-- เกาหลี
-- จีน 
-- ไทย 
-- การ์ตูน
-- ภาพยนตร์ 
+	- อเมริกา
+	- เกาหลี
+	- จีน 
+	- ไทย 
+	- การ์ตูน
+	- ภาพยนตร์ 
 
 `ทางผู้จัดทำไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol`
 
 # ดาวน์โหลด #
-	https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip
+[ดาวน์โหลด DooseriesHD-Addon](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
 
 # วิธีติดตั้ง #
-	1. ดาวน์โหลดไฟล์ .zip มาก่อน
-	2. ดูตามนี้นะครับ
-
-		http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file
+1. ดาวน์โหลดไฟล์ .zip มาก่อน
+2. [อ่านวิธีติดตั้งได้ที่นี่](http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file)
 
 ## การอัพเดท ##
 
@@ -28,3 +26,6 @@
 
 	0.0.1 (31.5.2013)
 	 - initial release
+
+### Contributors ###
+iClosedz (https://fb.com/iClosedz)
