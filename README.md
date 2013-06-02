@@ -28,4 +28,4 @@
 	 - initial release
 
 ### Contributors ###
-iClosedz [(fb.com/iClosedz)](https://fb.com/iClosedz)
+iClosedz ([fb.com/iClosedz](https://fb.com/iClosedz))
