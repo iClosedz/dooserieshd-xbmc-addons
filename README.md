@@ -12,9 +12,19 @@
 
 `ทางผู้จัดทำไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol`
 
+# ดาวน์โหลด #
+	https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip
+
 # วิธีติดตั้ง #
-ดูตามนี้นะครับ
+1. ดาวน์โหลดไฟล์ .zip มาก่อน
+2. ดูตามนี้นะครับ
 
 	http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file
 
-## รอการอัพเดท ##
+## การอัพเดท ##
+
+	1.0.0 (2.6.2013)
+	 - release on github
+
+	0.0.1 (31.5.2013)
+	 - initial release
