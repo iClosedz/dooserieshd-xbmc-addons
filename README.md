@@ -1,4 +1,4 @@
-# DooseriesHD #
+# DooseriesHD :p #
 ปลั๊กอินนี้ เป็นปลั๊กอินที่ไว้ใช้ร่วมกับโปรแกรม XBMC
 ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 ผู้จัดทำจะพยายามอัพเดทเรื่อยๆ โดยจะพยายามเพิ่มให้ครบทุกประเทศ 
@@ -16,10 +16,10 @@
 	https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip
 
 # วิธีติดตั้ง #
-1. ดาวน์โหลดไฟล์ .zip มาก่อน
-2. ดูตามนี้นะครับ
+	1. ดาวน์โหลดไฟล์ .zip มาก่อน
+	2. ดูตามนี้นะครับ
 
-	http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file
+		http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file
 
 ## การอัพเดท ##
 
