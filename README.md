@@ -3,7 +3,7 @@
 ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 
 <p align="center" >
-  <img src="![DooseriesHD](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/icon.png)"  alt="DooseriesHD" title="DooseriesHD">
+  <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/icon.png"  alt="DooseriesHD" title="DooseriesHD">
 </p>
 
 # Features (คุณสมบัติ)
