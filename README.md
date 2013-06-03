@@ -3,7 +3,7 @@
 ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 
 <p align="center" >
-  <img src="http://upic.me/i/fv/screenshot001.png"  height="500" width="380" alt="DooseriesHD" title="DooseriesHD">
+  <img src="http://upic.me/i/fv/screenshot001.png"  alt="DooseriesHD" title="DooseriesHD">
 </p>
 
 # Features (คุณสมบัติ)
@@ -23,9 +23,9 @@
 	 - initial release
 
 ## Creators
-iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz))
+- iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz))
 
 ## Thanks to
-Tristan Fischer (dersphere) -> For good XBMC Framework
-36Kungfu -> For adviser
-GreanMaster -> For adviser
+- Tristan Fischer (dersphere) -> For good XBMC Framework
+- 36Kungfu -> For adviser
+- GreanMaster -> For adviser
