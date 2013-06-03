@@ -2,9 +2,7 @@
 ปลั๊กอินนี้ เป็นปลั๊กอินที่ไว้ใช้ร่วมกับโปรแกรม XBMC
 ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 
-<p align="center" >
-  <img src="http://upic.me/i/fv/screenshot001.png"  alt="DooseriesHD" title="DooseriesHD">
-</p>
+![DooseriesHD](http://upic.me/i/fv/screenshot001.png)
 
 # Features (คุณสมบัติ)
 * อยากดูไรดู ไม่อยากดูก็ไม่ต้องดูไปทำอย่างอื่น
