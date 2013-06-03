@@ -1,10 +1,9 @@
 # DooseriesHD :p
-ปลั๊กอินนี้ เป็นปลั๊กอินที่ไว้ใช้ร่วมกับโปรแกรม XBMC
-ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
-
 <p align="center" >
   <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/icon.png"  alt="DooseriesHD" title="DooseriesHD">
 </p>
+ปลั๊กอินนี้ เป็นปลั๊กอินที่ไว้ใช้ร่วมกับโปรแกรม XBMC
+ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 
 # Features (คุณสมบัติ)
 * อยากดูไรดู ไม่อยากดูก็ไม่ต้องดูไปทำอย่างอื่น
