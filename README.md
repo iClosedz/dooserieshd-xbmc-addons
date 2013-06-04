@@ -11,8 +11,9 @@
 *ไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol
 
 # Get Started (วิธีติดตั้ง)
-* ดาวน์โหลดไฟล์ .zip มาก่อน [DooseriesHD-Addon-XBMC](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
-*  อ่านวิธีติดตั้งได้ [ที่นี่](http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file)
+* หากใครไม่เคยลง XBMC อ่านวิธีลงและดาวน์โหลดตัวภาษาไทยได้ [ที่นี่](http://www.overclockzone.com/forums/showthread.php/2104917-XBMC-12-ยอดมีเดียเซนเตอร์ตัวใหม่-ด้วยDXVA2-Thue-DTS-HD-ที่ใช้VGAได้คุ้มค่ายิ่งขึ้น)
+* ดาวน์ โหลดไฟล์ ปลั๊กอิน [DooseriesHD-Addon-XBMC](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
+* อ่านวิธีติดตั้งได้ [ที่นี่](http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file)
 
 ## Update List (รายการอัพเดท)
 
