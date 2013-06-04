@@ -15,6 +15,22 @@
 * ดาวน์โหลดไฟล์ปลั๊กอิน [DooseriesHD-Addon-XBMC](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
 * อ่านวิธีติดตั้งปลั๊กอินได้ [ที่นี่](http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file)
 
+# How to Update (วิธีอัพเดท)
+* หากปลั๊กอินไม่อัพเดทให้อัตโนมัติ สามารถอัพเดทเองได้โดย (จะทำหรือไม่ทำก็ได้แล้วแต่ศรัทธา)
+* คลิกขวาที่ตัวจัดการปลั๊กอิน
+
+<p align="center" >
+  <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/how_to_update/how_to_update_1.jpg"  alt="How to manual update DooseriesHD 1" title="How to manual update DooseriesHD 1">
+</p>
+
+* เลือกที่ "ตรวจสอบอัพเดท"
+
+<p align="center" >
+  <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/how_to_update/how_to_update_2.jpg"  alt="How to manual update DooseriesHD 2" title="How to manual update DooseriesHD 2">
+</p>
+
+* เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
+
 ## Update List (รายการอัพเดท)
 
 	1.1.1 (4.6.2013)
