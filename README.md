@@ -30,6 +30,6 @@
 - iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz))
 
 ## Thanks to
-- Tristan Fischer (dersphere) -> For good XBMC Framework
-- 36Kungfu -> For adviser
-- GreanMaster -> For adviser
+- Bstrdsmkr > For advice
+- 36Kungfu > For advice
+- GreanMaster > For advice
