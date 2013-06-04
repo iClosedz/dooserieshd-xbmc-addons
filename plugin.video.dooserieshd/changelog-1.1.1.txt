@@ -1,0 +1,9 @@
+1.1.1 (4.6.2013)
+ - Add Kr Series
+ - Fix some bugs (but still many bugs :p).
+
+1.0.0 (2.6.2013)
+ - release on github
+
+0.0.1 (31.5.2013)
+ - initial release

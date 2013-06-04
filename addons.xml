@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.dooserieshd" name="DooSeriesHD" version="1.0.0" provider-name="iClosedz (iClosedz.blogspot.com)">
+<addon id="plugin.video.dooserieshd"
+       name="DooSeriesHD"
+       version="1.1.1"
+       provider-name="iClosedz (iClosedz.blogspot.com)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -15,8 +18,8 @@
     <language></language>
     <summary lang="en">TV Series HD</summary>
     <summary lang="th">ดูซีรี่ออนไลน์ HD</summary>
-    <description lang="en">This Plugin provides access to TV Series. You can download. [CR] Contact&Bug Report: www.fb.com/iClosedz</description>
-    <description lang="th">ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ [CR]ผู้จัดทำจะพยายามอัพเดทเรื่อยๆ โดยจะพยายามเพิ่มให้ครบทุกประเทศ [CR]-อเมริกา [CR]-เกาหลี [CR]-จีน [CR]-ไทย [CR]-การ์ตูน [CR]-ภาพยนตร์ [CR]แนะนำ ติชม แจ้งบัค ได้ที่: www.fb.com/iClosedz [CR]ทางผู้จัดทำไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol</description>
+    <description lang="en">This Plugin provides access to TV Series. You can download. [CR] Contact, Bug Report: www.fb.com/iClosedz</description>
+    <description lang="th">ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ย์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ [CR]แนะนำ ติชม แจ้งบัค ได้ที่: www.fb.com/iClosedz [CR]ทางผู้จัดทำไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol</description>
   </extension>
 </addon>
 </addons>
