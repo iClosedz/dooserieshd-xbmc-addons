@@ -93,5 +93,5 @@
   <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/how_to_use/how_to_use_13.jpg"  alt="manual DooseriesHD" title="manual DooseriesHD">
 </p>
 
-## สามารถอ่านเคล็ดลับการใช้งานปลั๊กอิน DooSeriesHD ได้[ที่นี่](https://github.com/iClosedz/dooserieshd-xbmc-addons/blob/master/TIPS.md)
+### สามารถอ่านเคล็ดลับการใช้งานปลั๊กอิน DooSeriesHD ได้[ที่นี่](https://github.com/iClosedz/dooserieshd-xbmc-addons/blob/master/TIPS.md)
 
