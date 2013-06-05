@@ -14,8 +14,8 @@
 * หากใครไม่เคยลง XBMC อ่านวิธีลงและดาวน์โหลดตัวภาษาไทยได้ [ที่นี่](http://www.overclockzone.com/forums/showthread.php/2104917-XBMC-12-ยอดมีเดียเซนเตอร์ตัวใหม่-ด้วยDXVA2-Thue-DTS-HD-ที่ใช้VGAได้คุ้มค่ายิ่งขึ้น)
 * ดาวน์โหลดไฟล์ปลั๊กอิน [DooseriesHD-Addon-XBMC](https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/repository.dooserieshd/repository.dooserieshd.zip)
 * อ่านวิธีติดตั้งปลั๊กอินได้ [ที่นี่](http://wiki.xbmc.org/index.php?title=Add-ons#How_to_install_from_a_ZIP_file)
-* หรือ สามารถอ่านวิธีติดตั้งปลั๊กอินภาษาไทย และวิธีใช้งานปลั๊กอินเบื้องต้นได้ที่ [HOW_TO_USE.md]()
-* [เคล็ดลับการใช้งานปลั๊กอิน DooSeriesHD]()
+* หรือ สามารถอ่านวิธีติดตั้งปลั๊กอินภาษาไทย และวิธีใช้งานปลั๊กอินเบื้องต้นได้ที่ [HOW_TO_USE.md](https://github.com/iClosedz/dooserieshd-xbmc-addons/blob/master/HOW_TO_USE.md)
+* [เคล็ดลับการใช้งานปลั๊กอิน DooSeriesHD](https://github.com/iClosedz/dooserieshd-xbmc-addons/blob/master/TIPS.md)
 
 # How to Update (วิธีอัพเดท)
 * หากปลั๊กอินไม่อัพเดทให้อัตโนมัติ สามารถอัพเดทเองได้โดย (จะทำหรือไม่ทำก็ได้แล้วแต่ศรัทธา)
