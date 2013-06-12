@@ -8,7 +8,7 @@
 
 # Features (คุณสมบัติ)
 * อยากดูไรดู ไม่อยากดูก็ไม่ต้องดูไปทำอย่างอื่น
-*ไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol
+* ไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol
 
 # Get Started (วิธีติดตั้ง)
 * หากใครไม่เคยลง XBMC อ่านวิธีลงและดาวน์โหลดตัวภาษาไทยได้ [ที่นี่](http://www.overclockzone.com/forums/showthread.php/2104917-XBMC-12-ยอดมีเดียเซนเตอร์ตัวใหม่-ด้วยDXVA2-Thue-DTS-HD-ที่ใช้VGAได้คุ้มค่ายิ่งขึ้น)
@@ -34,6 +34,10 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.2.0 (12.6.2013)
+	 - New Features "Search Menu"
+	 - Fix bug report on "http://goo.gl/WK2bO"
+
 	1.1.2 (8.6.2013)
 	 - Add Jp Series
 	 - Add Anime
@@ -48,8 +52,11 @@
 	0.0.1 (31.5.2013)
 	 - initial release
 
+## Reviews Next Features
+	- Thai Serires
+
 ## Creators
-- iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz))
+- iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz)) พบบัคสามารถแจ้งได้ที่นี่จะพยายามแก้ไขให้ครับ
 
 ## Thanks to
 - Bstrdsmkr > For advice
