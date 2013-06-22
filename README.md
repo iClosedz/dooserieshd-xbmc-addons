@@ -5,13 +5,17 @@
 <p align="center" >
   <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/icon.png"  alt="DooseriesHD" title="DooseriesHD">
 </p>
+<p align="center" >
+  <img src="https://github.com/iClosedz/serieshd-xbmc-addons/raw/master/img/main.jpg"  alt="DooseriesHD-mainmemu" title="DooseriesHD-mainmemu">
+</p>
 
 # Features (คุณสมบัติ)
 * ปัจจุบันมีซีรี่ย์ให้เลือกดูหลากหลาย
 	- ซีรี่ย์ อเมริกา
 	- ซีรี่ย์ เกาหลี
 	- ซีรี่ย์ ญี่ปุ่น
-	- การตูนย์ อนิเมะ
+	- การตูน อนิเมะ
+	- ละครไทย
 * ไม่ต้องหาตามยูทูป เอ็มไทย มัวหารหัสผ่าน อีกต่อไปเอาไปดูฟรีๆเลย
 * อยากดูไรดู ไม่อยากดูก็ไม่ต้องดูไปทำอย่างอื่น
 * ไม่รับประกันว่าเราจะดูกันได้กี่วัน ดังนั้นทำใจไว้ก่อนก็ดีนะครับ lol
@@ -40,6 +44,9 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.2.1 (23.6.2013)
+	 - Add Th Series
+
 	1.2.0 (12.6.2013)
 	 - New Features "Search Menu"
 	 - Fix bug report on "http://goo.gl/WK2bO"
@@ -59,7 +66,7 @@
 	 - initial release
 
 ## Reviews Next Features
-	- Thai Serires
+	- แยกช่องสำหรับละครไทย
 
 ## Creators
 - iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz)) พบบัคสามารถแจ้งได้ที่นี่จะพยายามแก้ไขให้ครับ
