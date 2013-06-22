@@ -1,3 +1,6 @@
+1.2.0 (23.6.2013)
+ - Add Th Series
+
 1.2.0 (12.6.2013)
  - New Features "Search Menu"
  - Fix bug report on "http://goo.gl/WK2bO"
