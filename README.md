@@ -54,6 +54,8 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.2.3 Beta! (26.8.2013)
+	 - Fix bug Thank (fb.com/rewat.re) 
 	1.2.2 Beta! (25.8.2013)
 	 - Add Movies
 	 - Fix Thai language (http://pantip.com/topic/30640967)
